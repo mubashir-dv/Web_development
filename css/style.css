@@ -1,0 +1,29 @@
+body{
+    .externalcol{
+
+    
+    color: red(5, 94, 97);
+    border: 2px solid;
+    margin: 2px;
+    border-radius: 25px;
+}
+    .spanclass{
+        border: 2px solid;
+    } 
+    .no-account{
+        font-weight: bold;
+    }
+    .main-container{
+        border: 1px solid;
+        text-align: center;
+        margin: 50px 500px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .username{
+        margin: 5px;
+        padding: 5px;
+    }
+}
+
