@@ -18,12 +18,8 @@ body{
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0, 0, 0.1);
     border-radius: 25px;
-
 }
 
-.login-form{
-    color: #333;
-}
 
 .login-form{
     color: #666;
@@ -45,7 +41,7 @@ body{
     margin-top: 5px;
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 25px;
+    border-radius: 20px;
 
 }
 
